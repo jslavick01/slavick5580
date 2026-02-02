@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ames",
+        "fips": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -93.64645874729989,
+          42.02757192067102
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "des moines",
+        "fips": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -93.62434459721484,
+          41.58678446097227
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kansas city",
+        "fips": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.58635859576965,
+          39.09865251470734
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lake of the ozarks",
+        "fips": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -92.69316246277965,
+          38.15888478215939
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -95.94380976533641,
+          41.26049555707067
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            -93.64455993485039,
+            42.03022098765314
+          ],
+          [
+            -93.62712014239713,
+            41.5886579315065
+          ],
+          [
+            -95.9454329307788,
+            41.26294805298636
+          ],
+          [
+            -94.58549836973808,
+            39.11236119660222
+          ],
+          [
+            -92.73107865266843,
+            38.17459000486707
+          ],
+          [
+            -93.6219802781626,
+            41.58482419310755
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
